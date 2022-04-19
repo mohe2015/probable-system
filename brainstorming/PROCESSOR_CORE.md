@@ -34,7 +34,7 @@ At the beginning not existing. Caches could be used as register-like things.
 
 ## Bits
 
-64 bits probably not all working for addressing.
+64 bits probably not all used for addressing.
 
 ## IO
 
